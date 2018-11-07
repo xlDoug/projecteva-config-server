@@ -6,4 +6,4 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/xlDoug/projecteva-cloudconfig
+          uri: https://github.com/xlDoug/projecteva-config-server
